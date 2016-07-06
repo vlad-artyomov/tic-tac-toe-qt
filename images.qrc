@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/arrow.png</file>
+        <file>images/bigbang.gif</file>
+        <file>images/explosion.wav</file>
+        <file>images/menu32.png</file>
+        <file>images/menu64.png</file>
+        <file>images/menu128.png</file>
+        <file>images/menu256.png</file>
+        <file>images/menu512.png</file>
+        <file>images/restart32.png</file>
+        <file>images/restart64.png</file>
+        <file>images/restart128.png</file>
+        <file>images/restart256.png</file>
+        <file>images/restart512.png</file>
+        <file>images/Roboto-Medium.ttf</file>
+    </qresource>
+</RCC>

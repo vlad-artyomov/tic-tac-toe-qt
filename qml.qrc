@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/About.qml</file>
+        <file>qml/Cell.qml</file>
+        <file>qml/Field.qml</file>
+        <file>qml/Intro.qml</file>
+        <file>qml/MenuButton.qml</file>
+        <file>qml/MessageBox.qml</file>
+        <file>qml/MyComboBox.qml</file>
+        <file>qml/MyMenu.qml</file>
+        <file>qml/Result.qml</file>
+        <file>qml/Stats.qml</file>
+        <file>qml/SwitchControl.qml</file>
+    </qresource>
+</RCC>
